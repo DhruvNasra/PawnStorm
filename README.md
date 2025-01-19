@@ -27,3 +27,7 @@ PawnStorm is a powerful chess engine designed to provide a challenging opponent 
    ```bash
    git clone https://github.com/yourusername/pawnstorm.git
    cd pawnstorm
+2. Build the Executable
+   Navigate to the src folder and use make to compile the engine:
+   cd src
+   make all
