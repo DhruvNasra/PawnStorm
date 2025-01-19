@@ -1,6 +1,6 @@
 # PawnStorm
 
-PawnStorm is a powerful chess engine designed to provide a challenging opponent for chess enthusiasts and developers. Test your chess skills against PawnStorm or integrate it with GUI software like [CuteChess](https://github.com/cutechess/cutechess).
+PawnStorm is a powerful chess engine designed to provide a challenging opponent for chess enthusiasts and developers. Test your chess skills against PawnStorm by integrating it with GUI software like [CuteChess](https://github.com/cutechess/cutechess).
 
 ## Features
 - Efficient and optimized chess algorithms
