@@ -25,9 +25,25 @@ PawnStorm is a powerful chess engine designed to provide a challenging opponent 
 
 1. **Clone the Repository**
    ```bash
-   git clone https://github.com/yourusername/pawnstorm.git
+   git clone https://github.com/DivyanshVerma0/PawnStorm.git
    cd pawnstorm
-2. Build the Executable
-   Navigate to the src folder and use make to compile the engine:
+2. **Build the Executable**
+   ```bash
    cd src
    make all
+3. **Install CuteChess**
+   [here](https://github.com/cutechess/cutechess/releases/tag/v1.4.0-beta3)
+4. **Configure CuteChess**
+   - Go to settings > Engines and add the exe file made before via `make`
+   - Start a new game and play against the PawnStorm engine!
+  
+## Contact
+
+For any questions, feel free to reach out:
+
+- **Author:** Divyansh Verma  
+- **Email:** [divyansh_verma@icloud.com](mailto:divyansh_verma@icloud.com)  
+- **GitHub:** [DivyanshVerma0](https://github.com/DivyanshVerma0)
+
+   
+
