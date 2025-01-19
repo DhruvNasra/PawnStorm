@@ -33,9 +33,12 @@ PawnStorm is a powerful chess engine designed to provide a challenging opponent 
    make all
 3. **Install CuteChess**
    [here](https://github.com/cutechess/cutechess/releases/tag/v1.4.0-beta3)
+
 4. **Configure CuteChess**
    - Go to settings > Engines and add the exe file made before via `make`
    - Start a new game and play against the PawnStorm engine!
+
+---
   
 ## Contact
 
